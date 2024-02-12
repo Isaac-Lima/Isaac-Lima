@@ -1,10 +1,11 @@
-### Olá! Eu sou o Isaac 👋
+## Hi there 👋
+### My name is Isaac
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-silva-59061525b/)
 
 [![Isaac GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-lima&layout=donut)](https://github.com/isaac-lima/github-readme-stats)
 
-## Tecnologias que uso
+## technologies I use
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -20,4 +21,4 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   </div><br/>
 
-Técnico em informática - 2022/2024
+I.T Technician- 2022/2024
