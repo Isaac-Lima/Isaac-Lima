@@ -1,6 +1,12 @@
 ## Hi there 👋
 ### My name is Isaac
 
+I am studying to become a web developer. I am currently in the 3rd year of high school, enrolled in the integrated technical program in computer science at E.E.E.P Professor Luiza de Teodoro Vieira in Pacatuba, CE.
+
+I am focusing on building a solid expertise in HTML, CSS, and JavaScript, which are essential for creating modern and responsive websites. Additionally, I stay updated on the latest trends and frameworks such as Bootstrap 5 and Vue.js to ensure that my projects are always at the forefront of innovation.
+
+I am always seeking new challenges that help me grow in the job market.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-silva-59061525b/)
 
 [![Isaac GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-lima&layout=donut)](https://github.com/isaac-lima/github-readme-stats)
