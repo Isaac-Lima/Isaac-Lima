@@ -10,8 +10,6 @@
 
 ###
 
-<p align="left">Estou estudando para me tornar um desenvolvedor web. Atualmente, estou no terceiro ano do ensino médio, matriculado no curso técnico integrado em informática na E.E.E.P Professora Luiza de Teodoro Vieira em Pacatuba, CE.<br><br>Estou focado em construir uma expertise sólida em HTML, CSS e JavaScript, que são essenciais para criar websites modernos e responsivos. Além disso, me mantenho atualizado sobre as últimas tendências e frameworks como Bootstrap 5 e Vue.js para garantir que meus projetos estejam sempre na vanguarda da inovação.<br><br>Estou sempre em busca de novos desafios que me ajudem a crescer no mercado de trabalho.</p>
-
 ###
 
 <div align="center">
