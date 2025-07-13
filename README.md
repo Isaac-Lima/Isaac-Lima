@@ -4,7 +4,7 @@
 
 ---
 
-Atualmente, sou estagiário na Agna Soluções, onde tenho a oportunidade de aplicar e expandir meus conhecimentos em Flutter e C# em desenvolvimento mobile e back-end. Tenho focado meus estudos em React e Flutter, buscando aprimorar minhas habilidades e criar projetos que refletem meu aprendizado. Estou sempre explorando novas ferramentas e práticas para me tornar um desenvolvedor mais completo e preparado para desafios futuros.
+Atualmente, sou estagiário na Agna Soluções, onde tenho a oportunidade de aplicar e expandir meus conhecimentos em Flutter e C# em desenvolvimento mobile e back-end. Tenho focado meus estudos em C# e .Net, buscando aprimorar minhas habilidades e criar projetos que refletem meu aprendizado. Estou sempre explorando novas ferramentas e práticas para me tornar um desenvolvedor mais completo e preparado para desafios futuros.
 
 ---
 
